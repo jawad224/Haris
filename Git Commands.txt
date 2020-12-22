@@ -15,6 +15,6 @@
 "local live/origin sy connect hojati h"    "git hub ki repository sy hota h" 
 
 07- "git remote -v" 
-"live/origin check karny k liye h"
+"live/origin check karny k liye h."
 
 08- 
