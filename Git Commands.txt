@@ -1,0 +1,4 @@
+01 "git init" 
+02 "git status"
+03 "git add ."
+04 ""
